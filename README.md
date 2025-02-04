@@ -1,5 +1,5 @@
-# Just Physics ➰
+# Jiggly Balls 🏀
 
-It's just physics, nothing fancy. Built with Three.js.
+Just some jiggly bouncy balls. Built with Three.js.
 
-Link: https://just-physics.onrender.com/
+Link: https://jiggly-balls.onrender.com/
